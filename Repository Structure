@@ -1,0 +1,5 @@
+perishable-supply-chain-variance-engine/
+├── app.py                  # Interactive Streamlit + DuckDB Executive Simulator
+├── generate_data.py        # Synthetic multi-entity perishable fulfillment generator
+├── requirements.txt        # Clean dependency list for Streamlit Community Cloud
+└── README.md               # Boardroom-grade architectural overview (your LinkedIn hook)
